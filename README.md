@@ -14,7 +14,7 @@ It finds things on screen by picture, so it keeps working when a window moves.
 [![Free plan](https://img.shields.io/badge/Free%20plan-no%20card-2EA043?style=for-the-badge)](https://mynarecorder.com/pricing)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/N9YHxSQVTm)
 
-<img src="docs/images/tour.png" alt="A tour of the Myna Recorder window: the Recorder tab with the AI assistant, the Script tab, the auto clicker and the Monitors tab, one after another" width="860">
+<img src="docs/images/tour.png" alt="A tour of the Myna Recorder window, one screen after another: the Recorder tab, the Script tab with the AI assistant, the auto clicker, Timed Actions, floating Live boxes, Hotkeys, Clipboard, the Live view, the Scheduler and a clicker sequence of points" width="860">
 
 <sub>Every tab, three seconds each. The stills are below.</sub>
 
