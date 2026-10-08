@@ -10,9 +10,9 @@ Record what you do, edit it as a plain script, and run it whenever you like.
 It finds things on screen by picture, so it keeps working when a window moves.
 
 [![Website](https://img.shields.io/badge/mynarecorder.com-0B1220?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://mynarecorder.com)
-[![Download](https://img.shields.io/badge/Download-Windows%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/myna-recorder/myna-macro-recorder/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Windows%20x64-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mynarecorder.com/download)
 [![Free plan](https://img.shields.io/badge/Free%20plan-no%20card-2EA043?style=for-the-badge)](https://mynarecorder.com/pricing)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zAJ7HJHgV)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/N9YHxSQVTm)
 
 <img src="docs/images/tour.png" alt="A tour of the Myna Recorder window: the Recorder tab with the AI assistant, the Script tab, the auto clicker and the Monitors tab, one after another" width="860">
 
@@ -47,6 +47,8 @@ It finds things on screen by picture, so it keeps working when a window moves.
 | **Timed Actions** | Key presses, clicks and waits that repeat on a timer, alongside a macro, the clicker or the monitors, or on their own. |
 | **Window commands** | Bring a program's window to the front, wait for it, move, resize, maximize, minimize or close it, found by its title. |
 | **Export as a program** | Write a macro out as one .exe that runs on any Windows PC, with its image crops and the local text readers built in. |
+| **Your own hotkeys** | Key combinations that open a program or a website, or play a macro, from any program. |
+| **Clipboard history** | Keep what you copy, pin the items you reuse, and paste them with a hotkey. |
 | **Global hotkeys** | <kbd>F2</kbd> to record, <kbd>F4</kbd> to run, <kbd>F5</kbd> to pause and <kbd>F6</kbd> to stop, from any program. Run starts whatever the open tab is about: the macro, the clicker, the monitors or the timed actions. Every key can be changed. |
 
 ## Screens
@@ -64,7 +66,7 @@ It finds things on screen by picture, so it keeps working when a window moves.
 
 ## Getting started
 
-1. **Download and run Recorder.** Get the [latest release](https://github.com/myna-recorder/myna-macro-recorder/releases/latest) (or from [mynarecorder.com](https://mynarecorder.com/download)), unzip it and run `Recorder.exe`. There is no installer.
+1. **Download and install.** Get the installer from [mynarecorder.com/download](https://mynarecorder.com/download), or the standalone `Myna Recorder.exe`, which runs from anywhere without installing.
 2. **Sign in, or continue without an account.** Without an account you can record, edit and replay straight away. A [free account](https://mynarecorder.com/register) adds a 7-day trial of the paid features and keeps you signed in.
 3. **Record something, or describe it.** Press record and do the task. With the AI assistant, you can type what you want and let it write the macro.
 4. **Run it.** Replay it whenever you need, at the speed and repeat count you choose.
@@ -73,30 +75,21 @@ Windows may show "Windows protected your PC" the first time you run it. Choose *
 
 ## Plans
 
-> **Launch offer: 50% off your first month.** Applied automatically at checkout. From the second month you pay the normal price shown below. Cancel any time.
-
-| Plan | Price | What you get |
-|:--|:--|:--|
-| **Free** | $0, forever | Recording, editing, replay, image anchors, and the auto clicker (one click or key at a set rate, with a count, a time limit and hold mode). No card, no expiry, and no account needed. |
-| **Basic** | ~~$10~~ **$5** the first month, then $10/month | Everything in Free, plus the screen watchdog, Telegram and Discord alerts, export as a program, the Scheduler, Timed Actions, and the clicker's humanized clicks, jitter, scatter, sequences of points and wander box. |
-| **Pro** | ~~$15~~ **$7.50** the first month, then $15/month | Everything in Basic, plus the AI assistant, reading text from the screen, `ask_ai`, the GPT and Claude models, and 3,000 AI credits a month. |
-
-Every new account starts with a 7-day trial of the paid features and 100 AI credits, no card. The Scheduler and the GPT and Claude models need a paid plan.
-Credit packs are available on top of a plan and never expire.
-Full details on the **[pricing page](https://mynarecorder.com/pricing)**.
+Recording, editing, replay, image anchors and the auto clicker are free, with no account needed. Paid plans add the watchdog, export, the Scheduler and the AI features; see the **[pricing page](https://mynarecorder.com/pricing)**.
 
 ## Requirements
 
 - Windows 10 or Windows 11, 64-bit
-- A 78 MB zip holding a single .exe. Unzip and run, nothing to install.
+- In 12 languages: English, German, Spanish, French, Italian, Portuguese (Brazil), Polish, Russian, Chinese (Simplified), Japanese, Korean and Arabic. Change it any time in Settings, General.
+- An 84 MB installer, or an 82 MB standalone .exe that runs without installing.
 - An internet connection for signing in and for the AI features. Recording, playback, image anchors, the local text readers and the auto clicker work offline.
 
 ## Documentation and help
 
 - **[User manual](https://mynarecorder.com/manual)**: recording, playback, editing, image anchors, screen text, the assistant, monitors, the auto clicker, the Scheduler, Timed Actions, export and settings
 - **[Changelog](https://mynarecorder.com/changelog)**: what changed in each release
-- **[Discord](https://discord.gg/zAJ7HJHgV)**: help with macros, bug reports and announcements
+- **[Discord](https://discord.gg/N9YHxSQVTm)**: help with macros, bug reports and announcements
 - **[Issues](../../issues)**: bug reports and feature requests
 - **support@mynarecorder.com**
 
-Myna Recorder is free to download and use on the Free plan. It is not open source; this repository holds the releases and the issue tracker.
+Myna Recorder is free to download and use on the Free plan. It is not open source; this repository holds the issue tracker. Downloads are on [mynarecorder.com](https://mynarecorder.com/download).
