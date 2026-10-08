@@ -62,22 +62,28 @@ It finds things on screen by picture, so it keeps working when a window moves.
 <table>
   <tr>
     <td align="center" width="50%"><img src="docs/images/recorder.png" alt="The Recorder tab: every step of a macro as a row, grouped in sections" width="100%"><br><sub><b>Recorder</b>: every step as a row, in sections</sub></td>
-    <td align="center" width="50%"><img src="docs/images/script.png" alt="The Script tab: the same macro as text, with an explanation beside every line" width="100%"><br><sub><b>Script</b>: the same macro as text, with an explanation beside every line</sub></td>
+    <td align="center" width="50%"><img src="docs/images/script.png" alt="The Script tab beside the AI assistant, with an explanation beside every line" width="100%"><br><sub><b>Script</b>: the same macro as text, with the AI assistant beside it</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/images/clicker.png" alt="The Clicker tab set to one left click at the cursor, with jitter on the wait and the hold" width="100%"><br><sub><b>Auto clicker</b>: one click at a set rate, with jitter and humanized movement</sub></td>
-    <td align="center"><img src="docs/images/monitors.png" alt="The Monitors tab with five watch rows, some matching a picture and some asking the AI" width="100%"><br><sub><b>Monitors</b>: rows that fire on a picture or an AI answer and alert Telegram or Discord</sub></td>
+    <td align="center" width="50%"><img src="docs/images/clicker.png" alt="The Clicker tab set to one left click at the cursor" width="100%"><br><sub><b>Auto clicker</b>: one click at a set rate, with jitter on the wait and the hold</sub></td>
+    <td align="center" width="50%"><img src="docs/images/clicker-sequence.png" alt="The Clicker tab with a sequence of five points, each with its own wait" width="100%"><br><sub><b>Sequence of points</b>: clicked in order, each with its own wait</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/images/hotkeys.png" alt="The Hotkeys tab: four hotkeys that open programs and play a macro, each ready" width="100%"><br><sub><b>Hotkeys</b>: your own key combinations, from any program</sub></td>
-    <td align="center"><img src="docs/images/clipboard.png" alt="The Clipboard tab: pinned items with their hotkeys above the recent copies" width="100%"><br><sub><b>Clipboard</b>: what you copied, with pinned items and hotkeys to paste them</sub></td>
+    <td align="center" width="50%"><img src="docs/images/timers.png" alt="The Timed Actions tab with four timers" width="100%"><br><sub><b>Timed Actions</b>: keys and clicks that repeat on a timer</sub></td>
+    <td align="center" width="50%"><img src="docs/images/scheduler.png" alt="The Scheduler tab with the next run counting down and the queue below it" width="100%"><br><sub><b>Scheduler</b>: saved macros at a date and time, one after another</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/images/scheduler.png" alt="The Scheduler tab with the next run counting down and the queue below it" width="100%"><br><sub><b>Scheduler</b>: saved macros at a date and time, one after another</sub></td>
-    <td align="center"><img src="docs/images/timers.png" alt="The Timed Actions tab with timers that press keys on an interval" width="100%"><br><sub><b>Timed Actions</b>: keys and clicks that repeat on a timer</sub></td>
+    <td align="center" width="50%"><img src="docs/images/hotkeys.png" alt="The Hotkeys tab: four hotkeys that open programs and play a macro" width="100%"><br><sub><b>Hotkeys</b>: your own key combinations, from any program</sub></td>
+    <td align="center" width="50%"><img src="docs/images/clipboard.png" alt="The Clipboard tab: pinned items with their hotkeys above the recent copies" width="100%"><br><sub><b>Clipboard</b>: what you copied, with pinned items and hotkeys to paste them</sub></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><img src="docs/images/live.png" alt="Live view: the macro, monitors, timed actions, hotkeys, scheduler, log and clipboard on one board" width="100%"><br><sub><b>Live view</b>: everything that is running, on one board</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/images/floating.png" alt="Recorder with the Hotkeys, Timed actions and Clipboard boxes floating in windows of their own" width="100%"><br><sub><b>Floating boxes</b>: any Live box in a window of its own, beside your work</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/images/monitors.png" alt="The Monitors tab with five watch rows, some matching a picture and some asking the AI" width="100%"><br><sub><b>Monitors</b>: rows that fire on a picture or an AI answer and alert Telegram or Discord</sub></td>
   </tr>
 </table>
 
