@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="docs/images/logo.png" alt="Myna Recorder" width="120">
+<img src="docs/images/logo.png" alt="Myna Macro Recorder & Auto Clicker" width="120">
 
-# Myna Recorder
+# Myna Macro Recorder & Auto Clicker
+
+**English** · [Deutsch](docs/readme/README_de.md) · [Español](docs/readme/README_es.md) · [Français](docs/readme/README_fr.md) · [Italiano](docs/readme/README_it.md) · [Português (Brasil)](docs/readme/README_pt-BR.md) · [Polski](docs/readme/README_pl.md) · [Русский](docs/readme/README_ru.md) · [Українська](docs/readme/README_uk.md) · [Nederlands](docs/readme/README_nl.md) · [Čeština](docs/readme/README_cs.md) · [Svenska](docs/readme/README_sv.md) · [Română](docs/readme/README_ro.md) · [Türkçe](docs/readme/README_tr.md) · [简体中文](docs/readme/README_zh.md) · [繁體中文](docs/readme/README_zh-TW.md) · [日本語](docs/readme/README_ja.md) · [한국어](docs/readme/README_ko.md) · [Tiếng Việt](docs/readme/README_vi.md) · [Bahasa Indonesia](docs/readme/README_id.md) · [ไทย](docs/readme/README_th.md) · [हिन्दी](docs/readme/README_hi.md) · [العربية](docs/readme/README_ar.md) · [فارسی](docs/readme/README_fa.md) · [עברית](docs/readme/README_he.md)
 
 **A macro recorder for Windows that you can actually read and edit.**
 
@@ -89,12 +91,12 @@ It finds things on screen by picture, so it keeps working when a window moves.
 
 ## Getting started
 
-1. **Download and install.** Get the installer from [mynarecorder.com/download](https://mynarecorder.com/download), or the standalone `Myna Recorder.exe`, which runs from anywhere without installing.
-2. **Sign in, or continue without an account.** Without an account you can record, edit and replay straight away. A [free account](https://mynarecorder.com/register) adds a 7-day trial of the paid features and keeps you signed in.
+1. **Download and install.** Get the installer from [mynarecorder.com/download](https://mynarecorder.com/download), or the standalone `Myna Recorder.exe`, which runs from anywhere without installing. The current version is 2.1.0, released 17 October 2026.
+2. **Sign in, or continue without an account.** Without an account you can record, edit and replay straight away. A [free account](https://mynarecorder.com/register) adds a 7-day trial of the paid features and keeps you signed in. Sign in or create your Myna account with **Continue with Google**.
 3. **Record something, or describe it.** Press record and do the task. With the AI assistant, you can type what you want and let it write the macro.
 4. **Run it.** Replay it whenever you need, at the speed and repeat count you choose.
 
-Windows may show "Windows protected your PC" the first time you run it. Choose **More info**, then **Run anyway**.
+If Windows shows "Windows protected your PC" the first time you run it, choose **More info**, then **Run anyway**.
 
 ## Plans
 
@@ -103,8 +105,8 @@ Recording, editing, replay, image anchors and the auto clicker are free, with no
 ## Requirements
 
 - Windows 10 or Windows 11, 64-bit
-- In 12 languages: English, German, Spanish, French, Italian, Portuguese (Brazil), Polish, Russian, Chinese (Simplified), Japanese, Korean and Arabic. Change it any time in Settings, General.
-- An 84 MB installer, or an 82 MB standalone .exe that runs without installing.
+- In 54 languages: English, German, Spanish, French, Italian, Portuguese (Brazil), Polish, Russian, Chinese (Simplified), Japanese, Korean, Arabic, Armenian, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Burmese, Chinese (Traditional), Croatian, Czech, Danish, Dutch, Filipino, Finnish, Georgian, Greek, Hebrew, Hindi, Hungarian, Indonesian, Kazakh, Khmer, Kurdish, Latvian, Lithuanian, Luxembourgish, Malay, Norwegian, Persian, Romanian, Serbian, Sinhala, Slovak, Slovenian, Swedish, Thai, Turkish, Ukrainian, Urdu, Uyghur, Uzbek and Vietnamese. Change it any time in Settings, General.
+- A 104 MB installer (`MynaRecorderSetup-2.1.0.exe`), or a 103 MB standalone .exe that runs without installing. Both are digitally signed.
 - An internet connection for signing in and for the AI features. Recording, playback, image anchors, the local text readers and the auto clicker work offline.
 
 ## Documentation and help
@@ -112,7 +114,7 @@ Recording, editing, replay, image anchors and the auto clicker are free, with no
 - **[User manual](https://mynarecorder.com/manual)**: recording, playback, editing, image anchors, screen text, the assistant, monitors, the auto clicker, the Scheduler, Timed Actions, export and settings
 - **[Changelog](https://mynarecorder.com/changelog)**: what changed in each release
 - **[Discord](https://discord.gg/N9YHxSQVTm)**: help with macros, bug reports and announcements
-- **[Issues](../../issues)**: bug reports and feature requests
+- **[Issues](https://github.com/myna-recorder/myna-macro-recorder/issues)**: bug reports and feature requests
 - **support@mynarecorder.com**
 
-Myna Recorder is free to download and use on the Free plan. It is not open source; this repository holds the issue tracker. Downloads are on [mynarecorder.com](https://mynarecorder.com/download).
+Myna Macro Recorder & Auto Clicker (Myna Recorder for short) is free to download and use on the Free plan. It is not open source; this repository holds the issue tracker. Downloads are on [mynarecorder.com](https://mynarecorder.com/download).
